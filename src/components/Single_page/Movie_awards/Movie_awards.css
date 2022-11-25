@@ -1,0 +1,43 @@
+.originals_awards{
+    margin-left: 20%;
+    width: max-content;
+}
+/* .cast_details{
+    color: #fff;
+    text-align: center;
+    margin-top: 5%;
+} */
+.awards_rows {
+    display: flex;
+    width: 250%;
+}
+.awards_columns {
+    flex: 50%;
+    color: #fff;
+    padding-left: 10px;
+    margin-left: 10%;
+    /* height: 300px; */
+}
+@media screen and (min-width: 993px) and (max-width: 1024px) {
+
+    .awards_columns {
+        flex: 50%;
+        color: #fff;
+        padding-left: 0px;
+        margin-left: 0%;
+        /* height: 300px; */
+    }
+}
+@media screen and (min-width:769px) and (max-width: 992px) {
+    .awards_rows {
+        display: flex;
+        width: 200%;
+    }
+    .awards_columns {
+        flex: 50%;
+        color: #fff;
+        padding-left: 0px;
+        margin-left: 0%;
+        /* height: 300px; */
+    }
+}

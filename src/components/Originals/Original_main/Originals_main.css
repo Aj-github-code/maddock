@@ -1,0 +1,7 @@
+.originals {
+    background-image: url('../../../../public/images/Originals_bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    background-color: #171717;
+}

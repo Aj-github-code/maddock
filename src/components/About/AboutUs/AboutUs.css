@@ -1,0 +1,125 @@
+.bg {
+    background-image: url('../../../../public/images/About_bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    
+}
+.aboutus-title {
+    font-family: "ImagoTTBoo";
+    color: #FF8000;
+    font-size: 70px;
+    padding-top: 7%;
+    margin-left: 10%;
+    padding-bottom: 5%;
+}
+.aboutus-desc {
+    color: white;
+    text-align: left;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 20px;
+}
+.about-rowmain {
+    color: white;
+    width: 40%;
+    margin-left: 10%;
+    font-size: 20px;
+
+}
+.about-founder {
+    /* width: 534px;
+    height: 673px; */
+    margin-left: 60%;
+    margin-top: -35%;
+}
+.about_img{
+    width: 65%;
+    margin-top: 7%;
+}
+@media screen and (min-width:1025px) and (max-width: 1280px) {
+
+}
+@media screen and (min-width:993px) and (max-width: 1024px) {
+    .about-founder {
+        margin-left: 55%;
+        margin-top: -63%;
+        padding-bottom: 25%;
+    }
+}
+@media screen and (min-width:769px) and (max-width: 992px) {
+    .about-rowmain {
+        color: white;
+        width: 80%;
+        margin-left: 10%;
+        margin-top: 75%;
+    }
+    .about-founder {
+        margin-left: 25%;
+        margin-top: 5%;
+    }
+    .about_img{
+        width: 65%;
+        margin-top: -260%;
+    }
+}
+@media screen and (min-width: 577px) and (max-width: 768px) {
+    .about-rowmain {
+        color: white;
+        width: 80%;
+        margin-left: 10%;
+        margin-top: 70%;
+    }
+    .about-founder {
+        margin-left: 20%;
+        margin-top: 5%;
+    }
+    .about_img{
+        width: 65%;
+        margin-top: -270%;
+    }
+}
+@media screen and (min-width: 412px) and (max-width: 576px) {
+    .aboutus-title {
+        color: #FF8000;
+        font-size: 30px;
+        padding-top: 5%;
+        margin-left: 10%;
+    }
+    .about-rowmain {
+        color: white;
+        width: 80%;
+        margin-left: 10%;
+        margin-top: 85%;
+    }
+    .about-founder {
+        margin-left: 20%;
+        margin-top: 5%;
+    }
+    .about_img{
+        width: 65%;
+        margin-top: -740%;
+    }
+}
+@media screen and (min-width: 280px) and (max-width: 411px) {
+    .aboutus-title {
+        color: #FF8000;
+        font-size: 30px;
+        padding-top: 5%;
+        margin-left: 10%;
+    }
+    .about-rowmain {
+        color: white;
+        width: 80%;
+        margin-left: 10%;
+        margin-top: 100%;
+    }
+    .about-founder {
+        margin-left: 20%;
+        margin-top: 5%;
+    }
+    .about_img{
+        width: 65%;
+        margin-top: -895%;
+    }
+}

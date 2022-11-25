@@ -1,0 +1,12 @@
+.originals_tabs{
+    margin: 5%;
+   
+}
+
+@media screen and (min-width:577px) and (max-width: 768px) {
+    .all_tabs{
+        /* margin: 5%; */
+        display: flex;
+        flex-direction: row;
+    }
+}

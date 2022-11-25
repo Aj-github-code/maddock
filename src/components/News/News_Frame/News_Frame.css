@@ -1,0 +1,23 @@
+.News-title {
+    text-align: center;
+    padding: 50px 0 50px 0;
+  }
+
+.News_search {
+    width: 60%;
+    position: relative;
+    /* font-size: 25px; */
+}
+.SearchIcon{
+    position: absolute;
+    margin-right: 25px;
+    background: transparent;
+    font-weight: 400;
+    margin-top: 35px;
+    size: 20px;
+    z-index: 1999;
+    margin-left: -60px;
+    background-color: "none"; 
+    color: #FF8000;
+}
+  

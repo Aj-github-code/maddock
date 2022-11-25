@@ -1,0 +1,7 @@
+.Movie-Banner{
+    width: 100%;
+}
+.Movie-Banner img{
+    width: 100%;
+    object-fit: contain;
+}

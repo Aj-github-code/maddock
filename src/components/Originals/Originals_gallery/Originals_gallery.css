@@ -1,0 +1,12 @@
+.originals_gallery{
+    margin-left: 2%;
+
+}
+
+.originalgallery_grid{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 85px;
+
+    /* grid-template-columns: repeat(auto-fit, minmax(250px,1fr)); */
+}

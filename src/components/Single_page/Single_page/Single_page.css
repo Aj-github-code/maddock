@@ -1,0 +1,19 @@
+.movie_footer{
+    width: auto;
+}
+
+@media screen and (min-width: 993px) and (max-width: 1024px) {
+    .movie_footer{
+        width: 60%;
+    }
+}
+@media screen and (min-width:769px) and (max-width: 992px) {
+    .movie_footer{
+        width: 60%;
+    }
+}
+@media screen and (min-width:577px) and (max-width: 768px) {
+    .movie_footer{
+        width: 60%;
+    }
+}

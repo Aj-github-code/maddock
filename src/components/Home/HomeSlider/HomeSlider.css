@@ -1,0 +1,41 @@
+.slider-img {
+    position: relative;
+    z-index: 1;
+    padding-top: 5%;
+    height: 100vh;
+}
+
+@media screen and (min-width:993px) and (max-width: 1024px) {
+    .slider-img {
+        position: relative;
+        z-index: 1;
+        padding-top: 5%;
+        height: 40vh;
+    }
+}
+@media screen and (min-width:769px) and (max-width: 992px) {
+    .slider-img {
+        position: relative;
+        z-index: 1;
+        padding-top: 5%;
+        height: 40vh;
+    }
+}
+
+@media screen and (min-width:577px) and (max-width: 768px) {
+    .slider-img {
+        position: relative;
+        z-index: 1;
+        padding-top: 5%;
+        height: 40vh;
+    }
+}
+
+@media screen and (min-width:270px) and (max-width: 576px) {
+    .slider-img {
+        position: relative;
+        z-index: 1;
+        padding-top: 12%;
+        height: 40vh;
+    }
+}

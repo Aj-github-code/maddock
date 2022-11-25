@@ -1,0 +1,61 @@
+.about-row {
+    margin-left: 10%;
+    width: 50%;
+    
+}
+.about-title {
+    color: #FF8000;
+    /* font-weight: bold; */
+    font-size: 30px;
+    padding-top: 10%;
+}
+.about-desc {
+    font-family: "ImagoTTBoo";
+    color: white;
+    font-size: 20px;
+    width: 90%;
+}
+.about-image {
+    margin-left: 60%;
+    margin-top: -52%;
+    padding-bottom: 15%;
+}
+.about-btn {
+    margin-top: 2%;
+}
+
+@media screen and (min-width:1025px) and (max-width: 1280px) {
+
+}
+@media screen and (min-width:993px) and (max-width: 1024px) {
+    .about-image {
+        margin-left: 60%;
+        margin-top: -45%;
+    }
+}
+@media screen and (min-width:769px) and (max-width: 992px) {
+    .about-image {
+        margin-left: 60%;
+        margin-top: -60%;
+    }
+}
+@media screen and (min-width: 577px) and (max-width: 768px) {
+    .about-image {
+        display: none;
+    }
+    .about-row {
+        margin-left: 10%;
+        width: 90%;
+        
+    }
+}
+@media screen and (min-width: 280px) and (max-width: 576px) {
+    .about-image {
+        display: none;
+    }
+    .about-row {
+        margin-left: 10%;
+        width: 90%;
+        
+    }
+}

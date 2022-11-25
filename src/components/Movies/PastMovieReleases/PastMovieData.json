@@ -1,0 +1,1058 @@
+[
+    {
+      "id": 1,
+      "slug": "dasavi",
+      "banner": "../../../images/Banner.png",
+      "Image": "../../../images/Past_releases1.png",
+      "Title": "Dasavi",
+      "desc": "Chutzpah is an Indian drama based web series on SonyLIV directed by Simarpreet Singh and premiered on SonyLIV on 23 July. The show is created by Mrighdeep Singh Lamba and produced by Dinesh Vijan. The series is produced under Vijan’s banner Maddock Films’ digital content division, Outsider Films. Chutzpah is written by Amit Babbar and Mrighdeep Singh Lamba . The series features Tanya Maniktala, Elnaaz Norouzi, Varun Sharma, Diksha Singh and Manjot Singh. The show has been released in Hindi, Tamil, Telugu and Malayalam and is streaming on Sony LIV from 23 July 2021. The series is about the weird and wild universe of the web",
+      "cast": [
+        {
+            "id": 1,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name1",
+            "film_name": "Film_name1"
+        },
+        {
+            "id": 2,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name2",
+            "film_name": "Film_name2"
+        },
+        {
+            "id": 3,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name3",
+            "film_name": "Film_name3"
+        },
+        {
+            "id": 4,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name4",
+            "film_name": "Film_name4"
+        }
+      ],
+      "direct_of_photo": "Manush Nandan",
+      "production_designer": "Aditya Kanwar",
+      "costume_designer": "Samidha Wangnoo",
+      "action_director": "Vikram Dahiya",
+      "VFX": "Red Chillies VFX",
+      "gallery": [
+        {
+            "id": 1,
+            "gallery_image": "../../../../images/HDHD6.png"
+        },
+        {
+            "id": 2,
+            "gallery_image": "../../../../images/HDHD5.png"
+        },
+        {
+            "id": 3,
+            "gallery_image": "../../../../images/HDHD4.png"
+        },
+        {
+            "id": 4,
+            "gallery_image": "../../../../images/HDHD3.png"
+        },
+        {
+            "id": 5,
+            "gallery_image": "../../../../images/HDHD2.png"
+        },
+        {
+            "id": 6,
+            "gallery_image": "../../../../images/HDHD1.png"
+        }
+       
+      ],
+      "footerimage": "../../../../images/footerimage.png"
+    },
+    {
+      "id": 2,
+      "slug": "humDoHamareDo",
+      "banner": "../../../images/Banner.png",
+      "Image": "../../../images/Past_releases2.png",
+      "Title": "Hum Do Hamare Do",
+      "desc": "Dhruv, who grew up an orphan, is in love with a woman who wishes to marry someone with a family. In order to fulfill his lover’s wish, he hires two older individuals, who have an unresolved past, to pose as his parents. ",
+      "cast": [
+        {
+            "id": 1,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name1",
+            "film_name": "Film_name1"
+        },
+        {
+            "id": 2,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name2",
+            "film_name": "Film_name2"
+        },
+        {
+            "id": 3,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name3",
+            "film_name": "Film_name3"
+        },
+        {
+            "id": 4,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name4",
+            "film_name": "Film_name4"
+        }
+    ],
+    "direct_of_photo": "Manush mal",
+    "production_designer": "Aditya Kanwar",
+    "costume_designer": "Samidha Wangnoo",
+    "action_director": "Vikram Dahiya",
+    "VFX": "Red Chillies VFX",
+    "gallery": [
+        {
+            "id": 1,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 2,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 3,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 4,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 5,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 6,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 7,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 8,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 9,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        }
+      ],
+      "footerimage": "../../../../images/footerimage.png"
+
+    },
+    {
+      "id": 3,
+      "slug": "shiddat",
+      "banner": "../../../images/MovieSlider.png",
+      "Image": "../../../images/Past_releases3.png",
+      "Title": "Shiddat",
+      "desc": "Dhruv, who grew up an orphan, is in love with a woman who wishes to marry someone with a family. In order to fulfill his lover’s wish, he hires two older individuals, who have an unresolved past, to pose as his parents. ",
+      "cast": [
+        {
+            "id": 1,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name1",
+            "film_name": "Film_name1"
+        },
+        {
+            "id": 2,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name2",
+            "film_name": "Film_name2"
+        },
+        {
+            "id": 3,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name3",
+            "film_name": "Film_name3"
+        },
+        {
+            "id": 4,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name4",
+            "film_name": "Film_name4"
+        }
+    ],
+    "direct_of_photo": "Manush Nandan",
+    "production_designer": "Aditya Kanwar",
+    "costume_designer": "Samidha Wangnoo",
+    "action_director": "Vikram Dahiya",
+    "VFX": "Red Chillies VFX",
+    "gallery": [
+        {
+            "id": 1,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 2,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 3,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 4,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 5,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 6,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "mimi",
+      "banner": "../../../images/Banner.png",
+      "Image": "../../../images/Past_releases4.png",
+      "Title": "Mimi",
+      "desc": "Dhruv, who grew up an orphan, is in love with a woman who wishes to marry someone with a family. In order to fulfill his lover’s wish, he hires two older individuals, who have an unresolved past, to pose as his parents. ",
+      "cast": [
+        {
+            "id": 1,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name1",
+            "film_name": "Film_name1"
+        },
+        {
+            "id": 2,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name2",
+            "film_name": "Film_name2"
+        },
+        {
+            "id": 3,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name3",
+            "film_name": "Film_name3"
+        },
+        {
+            "id": 4,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name4",
+            "film_name": "Film_name4"
+        }
+    ],
+    "direct_of_photo": "Manush Nandan",
+    "production_designer": "Aditya Kanwar",
+    "costume_designer": "Samidha Wangnoo",
+    "action_director": "Vikram Dahiya",
+    "VFX": "Red Chillies VFX",
+    "gallery": [
+        {
+            "id": 1,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 2,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 3,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 4,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 5,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 6,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "roohi",
+      "banner": "../../../images/Banner.png",
+      "Image": "../../../images/Past_releases5.png",
+      "Title": "Roohi",
+      "desc": "Dhruv, who grew up an orphan, is in love with a woman who wishes to marry someone with a family. In order to fulfill his lover’s wish, he hires two older individuals, who have an unresolved past, to pose as his parents. ",
+      "cast": [
+        {
+            "id": 1,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name1",
+            "film_name": "Film_name1"
+        },
+        {
+            "id": 2,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name2",
+            "film_name": "Film_name2"
+        },
+        {
+            "id": 3,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name3",
+            "film_name": "Film_name3"
+        },
+        {
+            "id": 4,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name4",
+            "film_name": "Film_name4"
+        }
+    ],
+    "direct_of_photo": "Manush Nandan",
+    "production_designer": "Aditya Kanwar",
+    "costume_designer": "Samidha Wangnoo",
+    "action_director": "Vikram Dahiya",
+    "VFX": "Red Chillies VFX",
+    "gallery": [
+        {
+            "id": 1,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 2,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 3,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 4,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 5,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 6,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "angreziMedium",
+      "banner": "../../../images/MovieSlider.png",
+      "Image": "../../../images/Past_releases6.png",
+      "Title": "Angrezi Medium",
+      "desc": "Dhruv, who grew up an orphan, is in love with a woman who wishes to marry someone with a family. In order to fulfill his lover’s wish, he hires two older individuals, who have an unresolved past, to pose as his parents. ",
+      "cast": [
+        {
+            "id": 1,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name1",
+            "film_name": "Film_name1"
+        },
+        {
+            "id": 2,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name2",
+            "film_name": "Film_name2"
+        },
+        {
+            "id": 3,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name3",
+            "film_name": "Film_name3"
+        },
+        {
+            "id": 4,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name4",
+            "film_name": "Film_name4"
+        }
+    ],
+    "direct_of_photo": "Manush Nandan",
+    "production_designer": "Aditya Kanwar",
+    "costume_designer": "Samidha Wangnoo",
+    "action_director": "Vikram Dahiya",
+    "VFX": "Red Chillies VFX",
+    "gallery": [
+        {
+            "id": 1,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 2,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 3,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 4,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 5,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 6,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "loveAajKal",
+      "banner": "../../../images/HomeSlider_001.png",
+      "Image": "../../../images/Past_releases7.png",
+      "Title": "Love Aaj Kal",
+      "desc": "Dhruv, who grew up an orphan, is in love with a woman who wishes to marry someone with a family. In order to fulfill his lover’s wish, he hires two older individuals, who have an unresolved past, to pose as his parents. ",
+      "cast": [
+        {
+            "id": 1,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name1",
+            "film_name": "Film_name1"
+        },
+        {
+            "id": 2,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name2",
+            "film_name": "Film_name2"
+        },
+        {
+            "id": 3,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name3",
+            "film_name": "Film_name3"
+        },
+        {
+            "id": 4,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name4",
+            "film_name": "Film_name4"
+        }
+    ],
+    "direct_of_photo": "Manush Nandan",
+    "production_designer": "Aditya Kanwar",
+    "costume_designer": "Samidha Wangnoo",
+    "action_director": "Vikram Dahiya",
+    "VFX": "Red Chillies VFX",
+    "gallery": [
+        {
+            "id": 1,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 2,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 3,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 4,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 5,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 6,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "madeInChina",
+      "banner": "../../../images/Banner.png",
+      "Image": "../../../images/Past_releases8.png",
+      "Title": "Made In China",
+      "desc": "Dhruv, who grew up an orphan, is in love with a woman who wishes to marry someone with a family. In order to fulfill his lover’s wish, he hires two older individuals, who have an unresolved past, to pose as his parents. ",
+      "cast": [
+        {
+            "id": 1,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name1",
+            "film_name": "Film_name1"
+        },
+        {
+            "id": 2,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name2",
+            "film_name": "Film_name2"
+        },
+        {
+            "id": 3,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name3",
+            "film_name": "Film_name3"
+        },
+        {
+            "id": 4,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name4",
+            "film_name": "Film_name4"
+        }
+    ],
+    "direct_of_photo": "Manush Nandan",
+    "production_designer": "Aditya Kanwar",
+    "costume_designer": "Samidha Wangnoo",
+    "action_director": "Vikram Dahiya",
+    "VFX": "Red Chillies VFX",
+    "gallery": [
+        {
+            "id": 1,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 2,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 3,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 4,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 5,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 6,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "slug": "dasavi",
+      "banner": "../../../images/MovieSlider.png",
+      "Image": "../../../images/Past_releases1.png",
+      "Title": "Dasavi",
+      "desc": "Dhruv, who grew up an orphan, is in love with a woman who wishes to marry someone with a family. In order to fulfill his lover’s wish, he hires two older individuals, who have an unresolved past, to pose as his parents. ",
+      "cast": [
+        {
+            "id": 1,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name1",
+            "film_name": "Film_name1"
+        },
+        {
+            "id": 2,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name2",
+            "film_name": "Film_name2"
+        },
+        {
+            "id": 3,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name3",
+            "film_name": "Film_name3"
+        },
+        {
+            "id": 4,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name4",
+            "film_name": "Film_name4"
+        }
+    ],
+    "direct_of_photo": "Manush Nandan",
+    "production_designer": "Aditya Kanwar",
+    "costume_designer": "Samidha Wangnoo",
+    "action_director": "Vikram Dahiya",
+    "VFX": "Red Chillies VFX",
+    "gallery": [
+        {
+            "id": 1,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 2,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 3,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 4,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 5,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 6,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "slug": "humDoHamareDo",
+      "banner": "../../../images/Banner.png",
+      "Image": "../../../images/Past_releases2.png",
+      "Title": "Hum Do Hamare Do",
+      "desc": "Dhruv, who grew up an orphan, is in love with a woman who wishes to marry someone with a family. In order to fulfill his lover’s wish, he hires two older individuals, who have an unresolved past, to pose as his parents. ",
+      "cast": [
+        {
+            "id": 1,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name1",
+            "film_name": "Film_name1"
+        },
+        {
+            "id": 2,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name2",
+            "film_name": "Film_name2"
+        },
+        {
+            "id": 3,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name3",
+            "film_name": "Film_name3"
+        },
+        {
+            "id": 4,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name4",
+            "film_name": "Film_name4"
+        }
+    ],
+    "direct_of_photo": "Manush Nandan",
+    "production_designer": "Aditya Kanwar",
+    "costume_designer": "Samidha Wangnoo",
+    "action_director": "Vikram Dahiya",
+    "VFX": "Red Chillies VFX",
+    "gallery": [
+        {
+            "id": 1,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 2,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 3,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 4,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 5,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 6,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "slug": "shiddat",
+      "banner": "../../../images/Banner.png",
+      "Image": "../../../images/Past_releases3.png",
+      "Title": "Shiddat",
+      "desc": "Dhruv, who grew up an orphan, is in love with a woman who wishes to marry someone with a family. In order to fulfill his lover’s wish, he hires two older individuals, who have an unresolved past, to pose as his parents. ",
+      "cast": [
+        {
+            "id": 1,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name1",
+            "film_name": "Film_name1"
+        },
+        {
+            "id": 2,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name2",
+            "film_name": "Film_name2"
+        },
+        {
+            "id": 3,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name3",
+            "film_name": "Film_name3"
+        },
+        {
+            "id": 4,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name4",
+            "film_name": "Film_name4"
+        }
+    ],
+    "direct_of_photo": "Manush Nandan",
+    "production_designer": "Aditya Kanwar",
+    "costume_designer": "Samidha Wangnoo",
+    "action_director": "Vikram Dahiya",
+    "VFX": "Red Chillies VFX",
+    "gallery": [
+        {
+            "id": 1,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 2,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 3,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 4,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 5,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 6,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "slug": "mimi",
+      "banner": "../../../images/Banner.png",
+      "Image": "../../../images/Past_releases4.png",
+      "Title": "Mimi",
+      "desc": "Dhruv, who grew up an orphan, is in love with a woman who wishes to marry someone with a family. In order to fulfill his lover’s wish, he hires two older individuals, who have an unresolved past, to pose as his parents. ",
+      "cast": [
+        {
+            "id": 1,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name1",
+            "film_name": "Film_name1"
+        },
+        {
+            "id": 2,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name2",
+            "film_name": "Film_name2"
+        },
+        {
+            "id": 3,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name3",
+            "film_name": "Film_name3"
+        },
+        {
+            "id": 4,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name4",
+            "film_name": "Film_name4"
+        }
+    ],
+    "direct_of_photo": "Manush Nandan",
+    "production_designer": "Aditya Kanwar",
+    "costume_designer": "Samidha Wangnoo",
+    "action_director": "Vikram Dahiya",
+    "VFX": "Red Chillies VFX",
+    "gallery": [
+        {
+            "id": 1,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 2,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 3,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 4,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 5,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 6,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "slug": "roohi",
+      "banner": "../../../images/MovieSlider.png",
+      "Image": "../../../images/Past_releases5.png",
+      "Title": "Roohi",
+      "desc": "Dhruv, who grew up an orphan, is in love with a woman who wishes to marry someone with a family. In order to fulfill his lover’s wish, he hires two older individuals, who have an unresolved past, to pose as his parents. ",
+      "cast": [
+        {
+            "id": 1,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name1",
+            "film_name": "Film_name1"
+        },
+        {
+            "id": 2,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name2",
+            "film_name": "Film_name2"
+        },
+        {
+            "id": 3,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name3",
+            "film_name": "Film_name3"
+        },
+        {
+            "id": 4,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name4",
+            "film_name": "Film_name4"
+        }
+    ],
+    "direct_of_photo": "Manush Nandan",
+    "production_designer": "Aditya Kanwar",
+    "costume_designer": "Samidha Wangnoo",
+    "action_director": "Vikram Dahiya",
+    "VFX": "Red Chillies VFX",
+    "gallery": [
+        {
+            "id": 1,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 2,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 3,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 4,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 5,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 6,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "slug": "angreziMedium",
+      "banner": "../../../images/Banner.png",
+      "Image": "../../../images/Past_releases6.png",
+      "Title": "Angrezi Medium",
+      "desc": "Dhruv, who grew up an orphan, is in love with a woman who wishes to marry someone with a family. In order to fulfill his lover’s wish, he hires two older individuals, who have an unresolved past, to pose as his parents. ",
+      "cast": [
+        {
+            "id": 1,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name1",
+            "film_name": "Film_name1"
+        },
+        {
+            "id": 2,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name2",
+            "film_name": "Film_name2"
+        },
+        {
+            "id": 3,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name3",
+            "film_name": "Film_name3"
+        },
+        {
+            "id": 4,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name4",
+            "film_name": "Film_name4"
+        }
+    ],
+    "direct_of_photo": "Manush Nandan",
+    "production_designer": "Aditya Kanwar",
+    "costume_designer": "Samidha Wangnoo",
+    "action_director": "Vikram Dahiya",
+    "VFX": "Red Chillies VFX",
+    "gallery": [
+        {
+            "id": 1,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 2,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 3,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 4,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 5,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 6,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "slug": "loveAajKal",
+      "banner": "../../../images/HomeSlider_001.png",
+      "Image": "../../../images/Past_releases7.png",
+      "Title": "Love Aaj Kal",
+      "desc": "Dhruv, who grew up an orphan, is in love with a woman who wishes to marry someone with a family. In order to fulfill his lover’s wish, he hires two older individuals, who have an unresolved past, to pose as his parents. ",
+      "cast": [
+        {
+            "id": 1,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name1",
+            "film_name": "Film_name1"
+        },
+        {
+            "id": 2,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name2",
+            "film_name": "Film_name2"
+        },
+        {
+            "id": 3,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name3",
+            "film_name": "Film_name3"
+        },
+        {
+            "id": 4,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name4",
+            "film_name": "Film_name4"
+        }
+    ],
+    "direct_of_photo": "Manush Nandan",
+    "production_designer": "Aditya Kanwar",
+    "costume_designer": "Samidha Wangnoo",
+    "action_director": "Vikram Dahiya",
+    "VFX": "Red Chillies VFX",
+    "gallery": [
+        {
+            "id": 1,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 2,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 3,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 4,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 5,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 6,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "slug": "madeInChina",
+      "banner": "../../../images/Banner.png",
+      "Image": "../../../images/Past_releases8.png",
+      "Title": "Made In China",
+      "desc": "Dhruv, who grew up an orphan, is in love with a woman who wishes to marry someone with a family. In order to fulfill his lover’s wish, he hires two older individuals, who have an unresolved past, to pose as his parents. ",
+      "cast": [
+        {
+            "id": 1,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name1",
+            "film_name": "Film_name1"
+        },
+        {
+            "id": 2,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name2",
+            "film_name": "Film_name2"
+        },
+        {
+            "id": 3,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name3",
+            "film_name": "Film_name3"
+        },
+        {
+            "id": 4,
+            "cast_image": "../../../../images/Cast_1.png",
+            "cast_name": "Name4",
+            "film_name": "Film_name4"
+        }
+    ],
+    "direct_of_photo": "Manush Nandan",
+    "production_designer": "Aditya Kanwar",
+    "costume_designer": "Samidha Wangnoo",
+    "action_director": "Vikram Dahiya",
+    "VFX": "Red Chillies VFX",
+    "gallery": [
+        {
+            "id": 1,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 2,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 3,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 4,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 5,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        },
+        {
+            "id": 6,
+            "gallery_image": "../../../../images/Original_gallery.png"
+        }
+      ]
+    }
+  ]

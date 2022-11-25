@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "Image": "../../../../images/Originals_Synopsi.png",
+        "Title": "CHUTZPAH",
+        "desc": "Chutzpah is an Indian drama based web series on SonyLIV directed by Simarpreet Singh and premiered on SonyLIV on 23 July. The show is created by Mrighdeep Singh Lamba and produced by Dinesh Vijan. The series is produced under Vijan’s banner Maddock Films’ digital content division, Outsider Films. Chutzpah is written by Amit Babbar and Mrighdeep Singh Lamba . The series features Tanya Maniktala, Elnaaz Norouzi, Varun Sharma, Diksha Singh and Manjot Singh. The show has been released in Hindi, Tamil, Telugu and Malayalam and is streaming on Sony LIV from 23 July 2021. The series is about the weird and wild universe of the web",
+        "cast": [
+            {
+                "id": 1,
+                "cast_image": "../../../../images/Cast_1.png",
+                "cast_name": "Name1",
+                "film_name": "Film_name1"
+            },
+            {
+                "id": 2,
+                "cast_image": "../../../../images/Cast_1.png",
+                "cast_name": "Name2",
+                "film_name": "Film_name2"
+            },
+            {
+                "id": 3,
+                "cast_image": "../../../../images/Cast_1.png",
+                "cast_name": "Name3",
+                "film_name": "Film_name3"
+            },
+            {
+                "id": 4,
+                "cast_image": "../../../../images/Cast_1.png",
+                "cast_name": "Name4",
+                "film_name": "Film_name4"
+            }
+        ],
+        "direct_of_photo": "Manush Nandan",
+        "production_designer": "Aditya Kanwar",
+        "costume_designer": "Samidha Wangnoo",
+        "action_director": "Vikram Dahiya",
+        "VFX": "Red Chillies VFX",
+        "gallery": [
+            {
+                "id": 1,
+                "gallery_image": "../../../../images/Original_gallery.png"
+            },
+            {
+                "id": 2,
+                "gallery_image": "../../../../images/Original_gallery.png"
+            },
+            {
+                "id": 3,
+                "gallery_image": "../../../../images/Original_gallery.png"
+            },
+            {
+                "id": 4,
+                "gallery_image": "../../../../images/Original_gallery.png"
+            },
+            {
+                "id": 5,
+                "gallery_image": "../../../../images/Original_gallery.png"
+            },
+            {
+                "id": 6,
+                "gallery_image": "../../../../images/Original_gallery.png"
+            },
+            {
+                "id": 7,
+                "gallery_image": "../../../../images/Original_gallery.png"
+            },
+            {
+                "id": 8,
+                "gallery_image": "../../../../images/Original_gallery.png"
+            },
+            {
+                "id": 9,
+                "gallery_image": "../../../../images/Original_gallery.png"
+            }
+        ]
+    }
+]

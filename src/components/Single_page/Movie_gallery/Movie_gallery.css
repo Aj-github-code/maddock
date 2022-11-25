@@ -1,0 +1,23 @@
+.movie_gallery{
+    margin-left: 10%;
+
+}
+
+.gallery_grid{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    /* grid-gap: 85px; */
+    /* width: 100%; */
+    /* grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); */
+    /* grid-template-columns: repeat(auto-fill, var(--grid-size)); */
+}
+@media screen and (min-width:769px) and (max-width: 992px) {
+    .movie_gallery{
+        margin-left: 5%;
+    
+    }
+    .gallery_grid{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

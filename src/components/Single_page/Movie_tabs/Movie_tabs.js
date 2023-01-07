@@ -1,20 +1,24 @@
 import * as React from 'react';
+import LazyLoad from 'react-lazy-load';
 import './Movie_tabs.css'
 import PropTypes from 'prop-types';
 import Tabs from '@mui/material/Tabs';
 import Tab from '@mui/material/Tab';
 import Typography from '@mui/material/Typography';
 import Box from '@mui/material/Box';
-import Movie_synopsi from '../Movie_synopsi/Movie_synopsi';
+// import Movie_synopsi from '../Movie_synopsi/Movie_synopsi';
 import Movie_cast from '../Movie_cast/Movie_cast';
 import Movie_gallery from '../Movie_gallery/Movie_gallery';
 import Movie_awards from '../Movie_awards/Movie_awards';
+import { Suspense } from 'react';
+import { ErrorBoundary } from 'react-error-boundary';
 // import { color } from '@mui/system';
+const LazySynopsis = React.lazy(() => import('../Movie_synopsi/Movie_synopsi'));
 
 
 function TabPanel(props) {
   const { children, value, index, ...other } = props;
-
+  
   return (
     <div
       role="tabpanel"
@@ -24,8 +28,8 @@ function TabPanel(props) {
       {...other}
     >
       {value === index && (
-        <Box sx={{ p: 3 }}>
-          <Typography>{children}</Typography>
+        <Box sx={{ p: 3 }} >
+          <Typography >{children}</Typography>
         </Box>
       )}
     </div>
@@ -69,16 +73,23 @@ export default function VerticalTabs() {
                     <Tab label="AWARDS" {...a11yProps(3)} style={{ color:'#fff' }}/>
                 </Tabs>
             </Box>
-            <TabPanel value={value} index={0}>
-                <Movie_synopsi/>
+            <TabPanel value={value} index={0} style={{ width: "100%"}}>
+              <ErrorBoundary>
+                <Suspense fallback={<div>Loading...</div>}>
+                  <LazySynopsis/>
+                </Suspense>
+              </ErrorBoundary>
+              {/* <LazyLoad> */}
+              {/* <Movie_synopsi/> */}
+              {/* </LazyLoad> */}
             </TabPanel>
-            <TabPanel value={value} index={1}>
+            <TabPanel value={value} index={1} style={{ width: "100%"}}>
                 <Movie_cast />
             </TabPanel>
-            <TabPanel value={value} index={2}>
+            <TabPanel value={value} index={2} style={{ width: "100%"}}>
                 <Movie_gallery />
             </TabPanel>
-            <TabPanel value={value} index={3}>
+            <TabPanel value={value} index={3} style={{ width: "100%"}}>
                 <Movie_awards/>
             </TabPanel>
             

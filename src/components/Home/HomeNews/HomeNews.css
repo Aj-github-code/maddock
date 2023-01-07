@@ -1,7 +1,7 @@
 .news-title {
     font-size: 100px;
     color: #FF8000;
-    margin-left: 10%;
+    margin: 3%;
 }
 /* .collection img {
     filter: grayscale(100%);
@@ -10,6 +10,25 @@
   .news_slider {
     width: 95%;
   }
+  .details{
+    position: absolute;
+    width: 3%;
+    height: 40%;
+    bottom: 0;
+    display: inline;
+    z-index:10;
+  }
+  .img {
+    /* position: relative; */
+    height: 100%;
+  }
+  .news .items {
+    padding: 20px;
+    border-radius: 5px;
+    transition: 0.5s ease-in-out;
+    width: 100%;
+    /* margin-left: -30%; */
+}
  /* .image__overlay {
   position: absolute;
   background: rgba(0, 0, 0, 0.6);
@@ -26,13 +45,32 @@
     filter: grayscale(0);
   } */
 
+  @media screen and (min-width: 2268px ) and (max-width: 4535px) {
+
+    .news-title {
+      font-size: 75px;
+      color: #FF8000;
+      margin-left: 4%;
+      /* margin: 10%; */
+    }
+  }
+
+  @media screen and (min-width: 1024px ) and (max-width: 2268px) {
+
+    .news-title {
+      font-size: 75px;
+      color: #FF8000;
+      margin-left: 10%;
+      /* margin: 10%; */
+    }
+  }
 @media screen and (min-width: 993px) and (max-width: 1024px) {
 
   .news-title {
     font-size: 75px;
     color: #FF8000;
     margin-left: 10%;
-    margin-top: 10%;
+    /* margin: 10%; */
   }
 }
 @media screen and (min-width:769px) and (max-width: 992px) {
@@ -40,7 +78,7 @@
     font-size: 100px;
     color: #FF8000;
     margin-left: 10%;
-    margin-top: 25%;
+    /* margin: 25%; */
   }
 }
 @media screen and (min-width: 577px) and (max-width: 768px) {
@@ -55,5 +93,5 @@
     font-size: 50px;
     color: #FF8000;
     margin-left: 10%;
-  }
+  } 
 }

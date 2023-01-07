@@ -30,7 +30,7 @@ const Cards = () => {
     dots: false,
     infinite: true,
     speed: 500,
-    slidesToShow: 2,
+    slidesToShow: 3,
     slidesToScroll: 1,
     nextArrow: <SampleNextArrow />,
     prevArrow: <SamplePrevArrow />,
@@ -54,14 +54,14 @@ const Cards = () => {
               <div className='cards'>
                 <div className='item'>
                   <div className='imgae'>
-                    <img src={value.image} alt='' className="image_slide"/>
+                    <img src={value.image} alt='' className="image_slide" />
                     
                   </div>
                   
                   <div className='Movie-details'>
                     <h3>{value.name}</h3>
                     <h2>
-                      {value.date}
+                      {value.date ? value.date : "Coming Soon"}
                     </h2>
                   </div>
                 </div>

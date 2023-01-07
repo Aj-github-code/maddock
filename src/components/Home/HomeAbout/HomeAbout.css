@@ -1,6 +1,6 @@
 .about-row {
-    margin-left: 10%;
-    width: 50%;
+    margin-left: 4%;
+    width: 100%;
     
 }
 .about-title {
@@ -13,30 +13,113 @@
     font-family: "ImagoTTBoo";
     color: white;
     font-size: 20px;
-    width: 90%;
+    width: 95%;
+    text-align: justify;
+}
+.desc2 {
+    font-family: "ImagoTTBoo";
+    color: white;
+    font-size: 20px;
+    /* width: 165%; */
 }
 .about-image {
-    margin-left: 60%;
+    /* margin-left: 60%;
     margin-top: -52%;
-    padding-bottom: 15%;
+    padding-bottom: 15%; */
+    
 }
 .about-btn {
     margin-top: 2%;
 }
 
-@media screen and (min-width:1025px) and (max-width: 1280px) {
 
+
+@media screen and (min-width: 3831px ) and (max-width: 5200px) {
+
+    .about-row {
+        margin-left: 4%;
+        width: 100%;   
+    }
+    .about-desc {
+        font-size: 45px;
+
+    }
+    .desc2 {
+        font-family: "ImagoTTBoo";
+        color: white;
+        font-size: 40px;
+        width: 120%;
+    }
+  }
+@media screen and (min-width: 2268px ) and (max-width: 3831px) {
+
+    .about-row {
+        margin-left: 4%;
+        width: 100%;   
+    }
+    .about-desc {
+        font-size: 45px;
+
+    }
+    .desc2 {
+        font-family: "ImagoTTBoo";
+        color: white;
+        font-size: 40px;
+        width: 130%;
+    }
+  }
+
+  @media screen and (min-width: 1280px  ) and (max-width: 2268px) {
+
+    .about-row {
+        margin-left: 10%;
+        width: 100%;   
+    }
+    .desc2 {
+        font-family: "ImagoTTBoo";
+        color: white;
+        font-size: 20px;
+        width: 160%;
+    }
+  }
+  @media screen and (min-width:1025px) and (max-width: 1280px) {
+    .about-row {
+        margin-left: 10%;
+        width: 80%;   
+    }
+    .desc2 {
+        font-family: "ImagoTTBoo";
+        color: white;
+        font-size: 20px;
+        width: 215%;
+    }
 }
-@media screen and (min-width:993px) and (max-width: 1024px) {
-    .about-image {
-        margin-left: 60%;
-        margin-top: -45%;
+@media screen and (min-width:993px) and (max-width: 1025px) {
+    .about-row {
+        margin-left: 10%;
+        width: 100%;   
+    }
+    .desc2 {
+        font-family: "ImagoTTBoo";
+        color: white;
+        font-size: 20px;
+        width: 210%;    
     }
 }
 @media screen and (min-width:769px) and (max-width: 992px) {
     .about-image {
-        margin-left: 60%;
-        margin-top: -60%;
+        display: none;
+    }
+    .about-row {
+        margin-left: 10%;
+        width: 100%;
+        
+    }
+    .desc2 {
+        font-family: "ImagoTTBoo";
+        color: white;
+        font-size: 20px;
+        /* width: 190%; */
     }
 }
 @media screen and (min-width: 577px) and (max-width: 768px) {
@@ -45,7 +128,7 @@
     }
     .about-row {
         margin-left: 10%;
-        width: 90%;
+        width: 100%;
         
     }
 }
@@ -55,7 +138,7 @@
     }
     .about-row {
         margin-left: 10%;
-        width: 90%;
+        width: 100%;
         
     }
 }

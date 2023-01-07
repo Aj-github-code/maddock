@@ -6,11 +6,11 @@
 
 .navbar {
   position: absolute;
-  z-index: 2;
+  z-index: 4;
   /* position: sticky; */
   justify-content: space-around;
   align-items: center;
-  height: 75px;
+  height: 76px;
   background-color: black;
   color: white;
   width: 100%;
@@ -36,6 +36,7 @@
   list-style: none;
   width: 100%;
   margin-top: -10%;
+  margin-left: -7%;
 }
 
 .home,
@@ -44,6 +45,8 @@
 .original,
 .news,
 .contact {
+  font-family: "Helvetica";
+
   text-decoration: none;
   color: white;
   font-size: 20px;
@@ -130,7 +133,7 @@
   }
   .navbar {
     position: absolute;
-    z-index: 2;
+    z-index: 4;
     /* position: sticky; */
     justify-content: space-around;
     align-items: center;
@@ -186,7 +189,7 @@
     position: absolute;
     top: 0px;
     left: 35px;
-    width: 100%;
+    /* width: 100%; */
   }
 
   .nav-links {
@@ -236,7 +239,7 @@
     position: absolute;
     top: -15px;
     left: 0px;
-    width: 100%;
+    /* width: 100%; */
   }
 
   .nav-links {

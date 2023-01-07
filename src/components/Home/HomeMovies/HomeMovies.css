@@ -1,7 +1,7 @@
 .movie-title {
     font-size: 100px;
     color: #FF8000;
-    margin-left: 10%;
+    margin: 4%;
 }
 
 .movie-gallery {
@@ -46,12 +46,31 @@
     
 }
 
+@media screen and (min-width: 2268px ) and (max-width: 4535px) {
+
+    .news-title {
+      font-size: 100px;
+      color: #FF8000;
+      margin-left: 4%;
+      /* margin: 10%; */
+    }
+  }
+@media screen and (min-width: 1024px ) and (max-width: 2268px) {
+
+    .movie-title {
+      font-size: 100px;
+      color: #FF8000;
+      margin-left: 10%;
+      /* margin: 10%; */
+    }
+  }
+
 @media screen and (min-width:993px) and (max-width: 1024px) {
     .movie-title {
         font-size: 100px;
         color: #FF8000;
         margin-left: 10%;
-        padding-top: 10%;
+        /* padding-top: 10%; */
     }
 }
 @media screen and (min-width:769px) and (max-width: 992px) {
@@ -59,8 +78,8 @@
         font-size: 100px;
         color: #FF8000;
         margin-left: 10%;
-        padding-top: 25%;
-        margin-top: -1%;
+        /* padding-top: 25%; */
+        /* margin-top: -1%; */
     }
 }
 @media screen and (min-width: 577px) and (max-width: 768px) {

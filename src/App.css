@@ -2,6 +2,10 @@
   font-family: 'Imago';
   src: local('Imago'), url(./Fonts/Fonts/Imago/ImagoTTBoo.ttf) format('truetype');
 }
+@font-face {
+  font-family: 'Helvetica';
+  src: local('Helvetica'), url(./Fonts/helvetica-neue/HelveticaNeue-Light.otf) format('truetype');
+}
 * {
   padding: 0;
   margin: 0;
@@ -123,6 +127,7 @@ input {
 }
 .allmediatop {
   margin-top: 50px;
+  overflow: hidden;
 }
 .heading {
   text-align: center;

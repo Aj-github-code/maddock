@@ -1,14 +1,15 @@
 import React, { useEffect, useState } from "react"
 import "./PastMovieReleases.css"
-import PastMovieData from "./PastMovieData.json"
+// import PastMovieData from "./PastMovieData.json"
 import Mcard from "./Mcard"
 import axios from 'axios';
 
 const AllMovies = () => {
+  const API_URL = process.env.REACT_APP_API_URL
 
   var config = {
     method: 'get',
-    url: 'http://127.0.0.1:8000/api/movie_list',
+    url: API_URL+'/api/movie_list',
     headers: { 
       'Content-Type': 'application/json'
     },

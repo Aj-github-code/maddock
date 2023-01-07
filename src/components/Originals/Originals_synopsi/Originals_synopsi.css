@@ -14,11 +14,33 @@
     padding-left: 10px;
     /* height: 300px; */
 }
-
+.ori_synopsi_column2 {
+    flex: 50%;
+    padding-left: 10px;
+    /* height: 300px; */
+}
 .ori_synopsi_desc{
     color: #fff;
     font-size: 25px;
     font-family: "Imago";
     height: fit-content;
+    text-align: justify;
+
 }
   
+@media screen and (min-width:577px) and (max-width: 768px) {
+    .ori_synopsi_column2 {
+        /* flex: 50% 1; */
+        padding-left: 10px;
+        /* height: 300px; */
+        padding-top: 110%;
+        margin-left: -90%;
+    }
+    .ori_synopsi_desc{
+        color: #fff;
+        font-size: 25px;
+        font-family: "Imago";
+        height: fit-content;
+        margin-right: 20%;
+    }
+}

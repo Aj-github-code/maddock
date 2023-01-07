@@ -8,7 +8,7 @@ const PopularData = [
     {
       id: 2,
       image: "images/Upcoming_01.png",
-      date: "25 NOVEMBER 2022",
+      date: "",
       name: "TENRAN",
     },
     {

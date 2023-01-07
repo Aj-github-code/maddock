@@ -7,8 +7,10 @@ import AboutMain from "./components/About/AboutMain/AboutMain"
 import Movies from "./components/Movies/MoviePage/Movies"
 import News from "./components/News/News/News"
 import Originals_main from "./components/Originals/Original_main/Original_main"
+// import { Suspense } from "react"
 import SinglePage from "./components/Single_page/Single_page/Single_page"
 
+// const SinglePage = React.lazy(() => import('./components/Single_page/Single_page/Single_page'));
 
 function App() {
 
@@ -29,7 +31,9 @@ function App() {
         <Route path='/' component={Home} exact></Route>
         <Route path='/about' component={AboutMain}></Route>
         <Route path='/movies' component={Movies}></Route>
-        <Route path='/singlepage/:id/:slug' component={SinglePage} ></Route>
+        {/* <Suspense fallback={<div>Loading...</div>}> */}
+          <Route path='/movie/:slug' component={SinglePage} ></Route>
+        {/* </Suspense> */}
         <Route path='/originals' component={Originals_main}></Route>
         <Route path='/news' component={News}></Route>
         {/*<Route path='/singlepage/:id/:slug' component={SinglePage} ></Route>

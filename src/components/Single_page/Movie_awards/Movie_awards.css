@@ -1,6 +1,6 @@
 .originals_awards{
-    margin-left: 20%;
-    width: max-content;
+    margin-left: 10%;
+    /* width: max-content; */
 }
 /* .cast_details{
     color: #fff;
@@ -9,13 +9,14 @@
 } */
 .awards_rows {
     display: flex;
-    width: 250%;
+    width: fit-content;
 }
 .awards_columns {
-    flex: 50%;
+    /* flex: 50%; */
     color: #fff;
-    padding-left: 10px;
-    margin-left: 10%;
+    /* width: 100%; */
+     padding-right: 10%;
+   /* margin-left: 10%; */
     /* height: 300px; */
 }
 @media screen and (min-width: 993px) and (max-width: 1024px) {

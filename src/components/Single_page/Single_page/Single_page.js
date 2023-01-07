@@ -7,41 +7,64 @@ import Footer from "../../../common/Footer/Footer"
 // import Footer from "../../../common/Footer/Footer"
 // import Single_page_banner from "../Single_page_banner/Single_page_banner"
 import "./Single_page.css"
+import axios from 'axios';
 
 
-const SinglePage = () => {
-    const { id } = useParams()
-    const [item, setItem] = useState(null)
+function SinglePage() {
+  const { slug } = useParams();
+  const [slugs, setSlug] = useState();
+
+    // const [item, setItem] = useState(null)
     
-    const [img, setImg] = useState()
-    useEffect(() => {
-      let item = PastMovieData.find((item) => item.id === parseInt(id))
-      if (item) {
-        setItem(item)
-        setImg(item.image)
-      }
-    }, [id])
+    // const [img, setImg] = useState()
+    // useEffect(() => {
+    //   let item = PastMovieData.find((item) => item.slug === parseInt(slug))
+    //   if (item) {
+    //     setItem(item)
+    //     setImg(item.image)
+    //   }
+    // }, [slug])
     
-    //   const hoverHandler = (image, i) => {
-    //       setImg(image);
+    const API_URL = process.env.REACT_APP_API_URL
   
-    //   };
+    var config = {
+      method: 'post',
+      url: API_URL+'/api/movieSingleList/'+slug,
+      headers: { 
+        'Content-Type': 'application/json'
+      },
+  
+      };
+
+      console.log(config);
+      const [items, setItems] = useState([])
+      
+      useEffect(() => {
+   
+      axios(config)
+      .then(function (response) {
+        console.log(response);
+        var res = response.data;
+        // console.log(response);
+        setItems(res.aaData[0]);
+        
+        })
+      .catch(function (error) {
+        console.log(error);
+      });
+        
+      },[])
   
       
     return (
       <>
-        {item ? (
-            <div>
-                <img src={item.banner} alt='' style={{ width: "100%"}}/>
-                <Movie_tabs/>
-                <img src={item.footerimage} alt='' className="movie_footer"/>
+          <div>
+              <img src={API_URL+'/public/upload/'+items.images} alt='' style={{ width: "100%", maxHeight: "600px"}}/>
+              <Movie_tabs/>
+              <img src={items.footerimage} alt='' className="movie_footer"/>
 
-                <Footer/>
-            </div>
-
-        ) : (
-          <EmptyFile />
-        )}
+              <Footer/>
+          </div>
         
       </>
     )

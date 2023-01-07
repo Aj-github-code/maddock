@@ -23,7 +23,7 @@ function Originals_cast() {
             <div className='main_ori_cast' style={{ marginTop: '5%' }}>
                 <h1>CREW</h1>
             </div>
-            <img src='../../../../images/Line.png' alt='' />
+            <img src='../../../../images/Line.png' alt='' className='img_line' />
 
             <div className='ori_cast_rows'>
               <div className='ori_cast_columns'>
@@ -35,13 +35,13 @@ function Originals_cast() {
 
               </div>
               <div className='ori_cast_columns'>
-                <h4>Costume Designer</h4>
+                <h4>Costume Designer - </h4>
                 <h4>{value.direct_of_photo}</h4>
                 <br/>
-                <h4>Action Director</h4>
+                <h4>Action Director - </h4>
                 <h4>{value.production_designer}</h4>
                 <br/>
-                <h4>VFX</h4>
+                <h4>VFX - </h4>
                 <h4>{value.VFX}</h4>
               </div>
             </div>

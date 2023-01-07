@@ -78,6 +78,9 @@ footer {
       margin-top: 0%;
       margin-left: 0%;
     }
+    .hrline {
+     margin-left: 10%;
+    }
     
   }
   @media screen and (min-width:270px) and (max-width: 576px) {

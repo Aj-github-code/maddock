@@ -3,19 +3,34 @@ import React from 'react'
 export const About_founder = () => {
   return (
     <>
-        <div id='about_founder'>
+        <div className='row' style={{ width: '100%' }}>
+            {/* <div className='col-md-12' style={{ width: '100%', display: "flex", justifyContent:"space-between", flexDirection: "row" }}> */}
+            <div id='about_founder'>
             <div className='aboutus-title'>
                 THE FOUNDER
             </div>
-            <div className='about-rowmain'>
-                From making high-budget blockbusters to genre-defining films, from working with the biggest actors of the industry to launching young talent in films, from being the distribution house with the strongest global foothold to pioneering new formats of distribution and exploring newer territories, from launching compelling story-telling forms to the numerous digitally led innovations, Yash Raj Films (YRF) has maintained its flagship position across all verticals since its genesis.
-                <br/><br/>
-                YRF was founded by the Late Yash Chopra, a veteran of the Indian film industry, in 1970. It’s the only privately held and fully integrated studio in India producing and having produced over 80 films. YRF is now a 50-year-strong production house and a vertically integrated studio in every sense, controlling almost every part of the value chain from production to post production, domestic & international distribution, music & home entertainment, marketing, design, digital, licensing, merchandising, talent management, brand partnerships, 
-            </div>
-            <div className='about-founder'>
-                <img  src='../../../images/about-founder.png' className='about_img' alt=''/>
+            <div className='row'>
+                {/* <div className='col-md-8'> */}
+                <div className='about-rowmain'>
+                    One of the most revered Indian producers and the primary mind behind Maddock Films, Dinesh Vijan bid farewell to a lucrative banking job to pursue his passion for cinema.
+                    <br/><br/>
+                    His first production was the universally applauded Being Cyrus, followed by a plethora of critical and commercial successes like Love Aaj Kal, Badlapur, Stree, Mimi and Dasvi.
+                    <br/><br/>
+                    A filmmaker who never shies away from thinking out of the box, Dinesh has taken creative risks that very few would. The first member of his family to step into the film world, he firmly believes that no story is born perfect, but every story can be told with perfection. 
+                    <br/><br/>
+                    Always adapting to new technologies and evolving sensibilities, Dinesh is a movie pioneer in the truest sense. With Maddock Films, his dream is to tell stories that touch his heart and entertain audiences all over.
+                </div>
+                {/* </div>
+                <div className='col-md-4'> */}
+
+                <div className='about-founder'>
+                    <img  src='../../../images/about-founder.png' className='about_img' alt=''/>
+                </div>
+                {/* </div> */}
             </div>
         </div>
+        </div>
+        {/* </ div> */}
     </>
   )
 }

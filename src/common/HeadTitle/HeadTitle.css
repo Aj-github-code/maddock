@@ -5,9 +5,9 @@
     background-repeat: no-repeat; */
     background-color: transparent;
     color: #FF8000;
-    height: 50vh;
+    /* height: 50vh;
     line-height: 30vh;
-    position: relative;
+    position: relative; */
     /* z-index: -2; */
   }
   
@@ -32,9 +32,9 @@
   .image-heading {
     background-color: transparent;
     color: #FF8000;
-    height: 42vh;
+    /* height: 42vh;
     line-height: 30vh;
-    position: relative;
+    position: relative; */
     /* z-index: -2; */
   }
   .image-heading h1 {
@@ -48,9 +48,9 @@
   .image-heading {
     background-color: transparent;
     color: #FF8000;
-    height: 25vh;
+    /* height: 25vh;
     line-height: 30vh;
-    position: relative;
+    position: relative; */
     /* z-index: -2; */
   }
   .image-heading h1 {
@@ -64,9 +64,9 @@
   .image-heading {
     background-color: transparent;
     color: #FF8000;
-    height: 22vh;
+    /* height: 22vh;
     line-height: 30vh;
-    position: relative;
+    position: relative; */
     /* z-index: -2; */
   }
   .image-heading h1 {
@@ -80,9 +80,9 @@
   .image-heading {
     background-color: transparent;
     color: #FF8000;
-    height: 18vh;
+    /* height: 18vh;
     line-height: 30vh;
-    position: relative;
+    position: relative; */
     /* z-index: -2; */
   }
   .image-heading h1 {

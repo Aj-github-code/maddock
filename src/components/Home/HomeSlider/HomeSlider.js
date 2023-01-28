@@ -9,7 +9,7 @@ import { Link } from "react-router-dom";
 
 const Products = () => {
     return(
-    <Carousel>
+    <Carousel >
       <Carousel.Item interval={1000}>
       <Link to='movies'><img  className="d-block w-100 slider-img"  src={img1}  /></Link>
         

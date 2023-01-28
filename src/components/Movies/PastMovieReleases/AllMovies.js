@@ -57,7 +57,7 @@ const AllMovies = () => {
 
     return (
     <>
-      <section className='blog allmediatop'>
+      <section className='blog'>
         {/* <div className='container'> */}
           <div className='content gridMedia'>
             {items.slice(0, visible).map((item) => {

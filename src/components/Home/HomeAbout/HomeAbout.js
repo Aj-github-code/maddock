@@ -5,10 +5,10 @@ import './HomeAbout.css'
 export const HomeAbout = () => {
   return (
     <>
-        <div className='row' style={{ width: '100%' }}>
+        <div className='row' style={{ width: '100%',}}>
             <div className='col-md-12' style={{ width: '100%', display: "flex", justifyContent:"space-between", flexDirection: "row" }}>
             <div className='about-row'>
-                <div className='about-title'>ABOUT MADDOCK</div>
+                <div className='about-title' >ABOUT MADDOCK</div>
                 <div className='about-desc'>If it’s magical, it’s Maddock! One of the country’s leading production houses, Maddock Films, founded by Dinesh Vijan, is synonymous for creating content driven cinema that packs a unique punch. May it be Love Aaj Kal, Go Goa Gone, Badlapur, Hindi Medium, Stree, Bala or recent hits like Mimi and Dasvi, Maddock has left no stone unturned in entertaining audiences with fresh and gripping stories across genres. With a vibrant slate of upcoming releases that range from horror-comedy, romance, action, crime thrillers to drama, Maddock’s most awaited projects include Varun Dhawan-Kriti Sanon starrer Bhediya, directed by Amar Kaushik of Stree & Bala fame, as well as Mimi filmmaker Laxman Utekar’s next starring Vicky Kaushal and Sara Ali Khan.</div>
                 <Link to='about/about_company'><button type='submit' className='primary-btn about-btn'>
                     view more
@@ -22,7 +22,7 @@ export const HomeAbout = () => {
             </div>
 
                 <div className='about-image'>
-                    <img src='../../images/WebpageVideo.gif' alt='' style={{ width: '100%' }}/>
+                    <img src='../../images/WebpageVideo.gif' alt='' className="svgIcon" style={{ width: '100%' }}/>
                 </div>
             </div>
         </div>

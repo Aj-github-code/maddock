@@ -9,12 +9,13 @@ import News from "./components/News/News/News"
 import Originals_main from "./components/Originals/Original_main/Original_main"
 // import { Suspense } from "react"
 import SinglePage from "./components/Single_page/Single_page/Single_page"
-
+import ContactUs from "./components/Pages/ContactUs"
 // const SinglePage = React.lazy(() => import('./components/Single_page/Single_page/Single_page'));
 
 function App() {
 
   useEffect(() => {
+
      const root = document.documentElement;
     root?.style.setProperty(
       "--font-family", "Imago" 
@@ -36,9 +37,10 @@ function App() {
         {/* </Suspense> */}
         <Route path='/originals' component={Originals_main}></Route>
         <Route path='/news' component={News}></Route>
+        <Route path='/contact' component={ContactUs}></Route>
         {/*<Route path='/singlepage/:id/:slug' component={SinglePage} ></Route>
         <Route path='/media' component={Media}></Route>
-        <Route path='/contact' component={Contact}></Route> */}
+      */}
 
 
         

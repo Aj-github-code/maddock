@@ -5,6 +5,10 @@
     height: 100vh;
 }
 
+.carousel {
+    margin-top: -6%;
+}
+
 @media screen and (min-width:993px) and (max-width: 1024px) {
     .slider-img {
         position: relative;
@@ -12,6 +16,7 @@
         padding-top: 5%;
         height: 40vh;
     }
+ 
 }
 @media screen and (min-width:769px) and (max-width: 992px) {
     .slider-img {
@@ -19,6 +24,9 @@
         z-index: 1;
         padding-top: 5%;
         height: 40vh;
+    }
+    .carousel {
+        margin-top: -12%;
     }
 }
 
@@ -29,6 +37,9 @@
         padding-top: 5%;
         height: 40vh;
     }
+    .carousel {
+        margin-top: -12%;
+    }
 }
 
 @media screen and (min-width:270px) and (max-width: 576px) {
@@ -37,5 +48,8 @@
         z-index: 1;
         padding-top: 12%;
         height: 40vh;
+    }
+    .carousel {
+        margin-top: -12%;
     }
 }

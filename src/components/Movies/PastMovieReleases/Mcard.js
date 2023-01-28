@@ -15,8 +15,8 @@ const Mcard = ({ item: { id, slug, images, name } }) => {
             <i className='fas fa-external-link-alt'></i>
           </Link>
         </div>
-        <div className='details'>
-          <p>{name.toUpperCase()}</p>
+        <div className=''>
+          <p>{name}</p>
         </div>
 
       </div>

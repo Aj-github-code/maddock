@@ -10,6 +10,10 @@ import News_Frame from '../News_Frame/News_Frame'
 // import News_Frame from './News_Frame'
 
 function News() {
+  React.useEffect(()=>{
+    window.scrollTo(0, 0);
+  },[])
+
   return (
 
     <>

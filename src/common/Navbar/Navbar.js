@@ -21,7 +21,7 @@ const Navbar = () => {
     <>
       <nav className={fix ? "navbar fixed" : "navbar"}>
       <div className='logo'>
-            <img src='../../images/logo.png' alt='' />
+            <img src='../../images/logo2.png' alt='' />
           </div>
         <ul className={isMobile ? "nav-links-mobile" : "nav-links a"} 
         onClick={() => setIsMobile(false)}>

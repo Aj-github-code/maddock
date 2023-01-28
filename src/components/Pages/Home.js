@@ -7,6 +7,9 @@ import { HomeNews } from '../Home/HomeNews/HomeNews'
 import HomeSlider from '../Home/HomeSlider/HomeSlider'
 
 function Home() {
+  React.useEffect(()=>{
+    window.scrollTo(0, 0);
+  },[])
   return (
     <>
     

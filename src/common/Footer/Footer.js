@@ -26,10 +26,11 @@ const Footer = () => {
             <div className="col-sm-2" style={{ marginLeft: '12%' }}> */}
               {/* <ul> */}
               <div className="socialicon">
-                <i className='fab fa-facebook-f' style={{ backgroundColor: "transparent", color: 'white' }}></i>
-                <i className='fab fa-twitter' style={{ backgroundColor: "transparent", color: 'white' }}></i>
-                <i className='fab fa-linkedin' style={{ backgroundColor: "transparent", color: 'white' }}></i>
-                <i className='fab fa-instagram' style={{ backgroundColor: "transparent", color: 'white' }}></i>
+                <a href="https://www.facebook.com/maddockfilms/"><i className='fab fa-facebook-f' style={{ backgroundColor: "transparent", color: 'white' }}></i></a>
+                <a href="https://twitter.com/maddockfilms/"><i className='fab fa-twitter' style={{ backgroundColor: "transparent", color: 'white' }}></i></a>
+                <a href="https://www.linkedin.com/company/maddock-films-private-limited/"><i className='fab fa-linkedin' style={{ backgroundColor: "transparent", color: 'white' }}></i></a>
+                <a href="https://www.youtube.com/c/MaddockFilms/playlists?app=desktop"><i className='fab fa-youtube' style={{ backgroundColor: "transparent", color: 'white' }}></i></a>
+                <a href="https://www.instagram.com/maddockfilms/?hl=en&__coig_restricted=1"><i className='fab fa-instagram' style={{ backgroundColor: "transparent", color: 'white' }}></i></a>
               </div>
               {/* </ul> */}
             {/* </div> */}

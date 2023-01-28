@@ -24,6 +24,10 @@ function SinglePage() {
     //     setImg(item.image)
     //   }
     // }, [slug])
+
+    React.useEffect(()=>{
+      window.scrollTo(0, 0);
+    },[])
     
     const API_URL = process.env.REACT_APP_API_URL
   

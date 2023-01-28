@@ -6,6 +6,9 @@ import { PastMovieReleases } from '../PastMovieReleases/PastMovieReleases'
 import UpcomingMovies from '../UpcomingMovies/UpcomingMovies'
 
 function Movies() {
+  React.useEffect(()=>{
+    window.scrollTo(0, 0);
+  },[])
   return (
     <>
       {/* <div className='container1'> */}

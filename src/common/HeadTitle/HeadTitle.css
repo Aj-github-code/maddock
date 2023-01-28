@@ -5,6 +5,8 @@
     background-repeat: no-repeat; */
     background-color: transparent;
     color: #FF8000;
+    margin-top:6%;
+    margin-bottom:12%;
     /* height: 50vh;
     line-height: 30vh;
     position: relative; */
@@ -25,7 +27,7 @@
     font-size: 147px;
     text-transform: capitalize;
     text-align: center;
-    padding-top: 8%;
+    /* padding-top: 8%; */
   }
 
 @media screen and (min-width:993px) and (max-width: 1024px) {
@@ -41,13 +43,14 @@
     font-size: 147px;
     text-transform: capitalize;
     text-align: center;
-    padding-top: 8%;
+    /* padding-top: 8%; */
   }
 }
 @media screen and (min-width:769px) and (max-width: 992px) {
   .image-heading {
     background-color: transparent;
     color: #FF8000;
+
     /* height: 25vh;
     line-height: 30vh;
     position: relative; */
@@ -57,13 +60,14 @@
     font-size: 147px;
     text-transform: capitalize;
     text-align: center;
-    padding-top: 15%;
+    /* padding-top: 15%; */
   }
 }
 @media screen and (min-width:577px) and (max-width: 768px) {
   .image-heading {
     background-color: transparent;
     color: #FF8000;
+    margin-bottom:16%;
     /* height: 22vh;
     line-height: 30vh;
     position: relative; */
@@ -73,13 +77,14 @@
     font-size: 147px;
     text-transform: capitalize;
     text-align: center;
-    padding-top: 8%;
+    /* padding-top: 8%; */
   }
 }
 @media screen and (min-width:270px) and (max-width: 576px) {
   .image-heading {
     background-color: transparent;
     color: #FF8000;
+    margin-bottom:16%;
     /* height: 18vh;
     line-height: 30vh;
     position: relative; */
@@ -89,6 +94,6 @@
     font-size: 50px;
     text-transform: capitalize;
     text-align: center;
-    padding-top: 20%;
+    /* padding-top: 20%; */
   }
 }

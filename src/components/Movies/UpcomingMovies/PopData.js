@@ -9,7 +9,7 @@ const PopularData = [
       id: 2,
       image: "images/Upcoming_01.png",
       date: "",
-      name: "TENRAN",
+      name: "TEHRAN",
     },
     {
       id: 3,
@@ -21,7 +21,7 @@ const PopularData = [
       id: 4,
       image: "images/Upcoming_01.png",
       date: "25 NOVEMBER 2022",
-      name: "TENRAN",
+      name: "TEHRAN",
     },
     {
       id: 5,
@@ -33,7 +33,7 @@ const PopularData = [
       id: 6,
       image: "images/Upcoming_01.png",
       date: "25 NOVEMBER 2022",
-      name: "TENRAN",
+      name: "TEHRAN",
     },
     
   ]

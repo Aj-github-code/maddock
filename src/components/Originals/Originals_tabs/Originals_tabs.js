@@ -51,7 +51,7 @@ export default function VerticalTabs() {
   };
 
   return (
-    <div className="originals_tabs">
+    <div className="originals_tab">
         <Box sx={{ flexGrow: 1, display: 'flex', width: '100%' }}>
             <Box>
                 <Tabs
@@ -67,16 +67,16 @@ export default function VerticalTabs() {
                     <Tab label="AWARDS" {...a11yProps(3)} style={{ color:'#fff' }}/>
                 </Tabs>
             </Box>
-            <TabPanel value={value} index={0} style={{ width: "100%"}}>
+            <TabPanel value={value} index={0} style={{ width: "95%", overflowWrap: 'anywhere'}}>
                 <Originals_synopsi/>
             </TabPanel>
-            <TabPanel value={value} index={1} style={{ width: "100%"}}>
+            <TabPanel value={value} index={1} style={{ width: "95%"}}>
                 <Originals_cast />
             </TabPanel>
-            <TabPanel value={value} index={2} style={{ width: "100%"}}>
+            <TabPanel value={value} index={2} style={{ width: "95%"}}>
                 <Originals_gallery />
             </TabPanel>
-            <TabPanel value={value} index={3} style={{ width: "100%"}}>
+            <TabPanel value={value} index={3} style={{ width: "95%"}}>
                 Item Four
             </TabPanel>
             

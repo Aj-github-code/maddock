@@ -7,13 +7,13 @@ const HeadTitle = () => {
 
   return (
     <>
-      <section className='image-heading'>
+      <div className='image-heading'>
           {/*<h1>{location.pathname.slice(1, -2, -1)}</h1>*/}
           <h1>{location.pathname.split("/")[1]}</h1>
           {/*<h1>{location.pathname.replace(/ /, "")}</h1>*/}
 
           
-      </section>
+      </div>
     </>
   )
 }

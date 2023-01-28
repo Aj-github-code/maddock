@@ -6,6 +6,9 @@ import Originals_Banner from '../Originals_Banner/Originals_Banner'
 import Originals_tabs  from '../Originals_tabs/Originals_tabs'
 
 function Originals_main() {
+  React.useEffect(()=>{
+    window.scrollTo(0, 0);
+  },[])
     return (
       <>
         <div className='originals'>
